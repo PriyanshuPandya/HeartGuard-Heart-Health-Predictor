@@ -25,7 +25,7 @@ To run the HeartGuard locally, follow these stepsg:
 - Install the required Python Libraries Scikit-learn and Pandas using pip 
 - Have Streamlit for Quick UI setup.
 - Run the Streamlit application using streamlit run app.py.
-- Access the application in your web browser at http://localhost:8501.
+- Access the application in your web browser at `http://localhost:8501`.
 
 ## Methodology
 - **Data Collection**: The dataset containing various heart health indicators is loaded from data.csv.
